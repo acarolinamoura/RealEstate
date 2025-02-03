@@ -1,0 +1,1 @@
+SELECT * FROM `realestate-4.schema.RealEstate`
